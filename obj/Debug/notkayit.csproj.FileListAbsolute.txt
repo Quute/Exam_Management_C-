@@ -1,0 +1,12 @@
+C:\Users\berk_\source\repos\notkayit\notkayit\bin\Debug\notkayit.exe.config
+C:\Users\berk_\source\repos\notkayit\notkayit\bin\Debug\notkayit.exe
+C:\Users\berk_\source\repos\notkayit\notkayit\bin\Debug\notkayit.pdb
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.csprojAssemblyReference.cache
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.FrmGiris.resources
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.FormOgrenciDetay.resources
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.FormOgretmenDetay.resources
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.Properties.Resources.resources
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.csproj.GenerateResource.cache
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.csproj.CoreCompileInputs.cache
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.exe
+C:\Users\berk_\source\repos\notkayit\notkayit\obj\Debug\notkayit.pdb
